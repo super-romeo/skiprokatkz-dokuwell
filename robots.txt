@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skiprokatkz.dokufolio.com/sitemap.xml
